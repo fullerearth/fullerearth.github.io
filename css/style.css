@@ -1,0 +1,122 @@
+p{
+	text-align: justify;
+}
+.bg{
+	margin : 0px;
+	width : 100%;
+	height : 100%;
+/*
+	background-image: url(images/ut-bg-v-g.jpg);
+	background-repeat: repeat-x;
+*/
+	
+}
+.bg-image{
+	height: 320px;
+	background-repeat: round;
+}
+.shadow{
+}
+.page{
+	font-family : arial,sans-serif;
+	width: 1000px;
+	margin : 0px auto;
+	border-top: 4px solid rgb(29, 24, 210);
+	background-color : white;
+}
+.header{
+	height : 100px;
+}
+.logo{
+	height : 100%;
+	width : 25%;
+	float : left;
+}
+.logo-img{
+	height :100%;
+	margin-left: 100px;
+}
+.title{
+	height : 100%;
+	width : 75%;
+	float : right;
+	font-size: 60px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+
+.menu{
+	height :  30px;
+}
+
+.content{
+	min-height: 500px;
+}
+.content-left{
+	width : 0%;
+}
+.content-wrap{
+	margin-left:60px;
+	margin-right:60px;
+}
+.content-right{
+	width : 0%;
+}
+.article{
+
+}
+.spec table{
+	background-color : black;
+	text-align : center;
+	margin: auto;
+}
+.spec table tr{
+	background-color : white;
+}
+.spec table tr th{
+	height : 30px;
+	background-color : rgb(71, 71, 71);
+	color:white;
+}
+.spec table tr td{
+	height : 25px;
+	width : 200px;
+}
+.article-heading{
+font-size: 30px;
+color: rgb(255, 107, 0);
+}
+.article-para{
+margin: 0px 15px;
+}
+.article-para .para{
+	margin: 10px 0px;
+}
+.article-para .para .sub-heading{
+	margin-bottom: 5px;
+	color: rgb(255, 107, 0);
+}
+.article-para .para .sub-content{
+	margin : 0px 10px;
+}
+.footer{
+	background-color : rgb(97, 97, 97);
+	color : white;
+	height : 50px;
+}
+.footer-left{
+	float : left;
+	height : 100%;
+	width : 50%;
+}
+.footer-right{
+	float : right;
+	height : 100%;
+	width : 50%;
+}
+.margin {
+	margin :10px;
+}
+.margin-sides{
+	margin :0px 10px;
+}
